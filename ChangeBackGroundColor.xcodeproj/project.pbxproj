@@ -14,6 +14,7 @@
 		6E6D88412D3E9989003C6A17 /* ChangeBackGroundColorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E6D88402D3E9989003C6A17 /* ChangeBackGroundColorTests.swift */; };
 		6E6D884B2D3E9989003C6A17 /* ChangeBackGroundColorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E6D884A2D3E9989003C6A17 /* ChangeBackGroundColorUITests.swift */; };
 		6E6D884D2D3E9989003C6A17 /* ChangeBackGroundColorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E6D884C2D3E9989003C6A17 /* ChangeBackGroundColorUITestsLaunchTests.swift */; };
+		6E6D885A2D3E9B2E003C6A17 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E6D88592D3E9B2E003C6A17 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		6E6D88462D3E9989003C6A17 /* ChangeBackGroundColorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChangeBackGroundColorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E6D884A2D3E9989003C6A17 /* ChangeBackGroundColorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeBackGroundColorUITests.swift; sourceTree = "<group>"; };
 		6E6D884C2D3E9989003C6A17 /* ChangeBackGroundColorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeBackGroundColorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6E6D88592D3E9B2E003C6A17 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				6E6D882F2D3E9986003C6A17 /* ChangeBackGroundColorApp.swift */,
 				6E6D88312D3E9986003C6A17 /* ContentView.swift */,
+				6E6D88592D3E9B2E003C6A17 /* DetailView.swift */,
 				6E6D88332D3E9989003C6A17 /* Assets.xcassets */,
 				6E6D88352D3E9989003C6A17 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E6D88322D3E9986003C6A17 /* ContentView.swift in Sources */,
+				6E6D885A2D3E9B2E003C6A17 /* DetailView.swift in Sources */,
 				6E6D88302D3E9986003C6A17 /* ChangeBackGroundColorApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
